@@ -42,7 +42,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## Site do Projeto
 
 
-[Link do Projeto]([explorer-lab-01-phi-five.vercel.app/](https://explorer-lab-01-phi-five.vercel.app/))
+[Link do Projeto](https://explorer-lab-01-phi-five.vercel.app/)
 
 ## :memo: Licença
 
